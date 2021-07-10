@@ -1,0 +1,21 @@
+#EXTM3U
+
+
+#EXTINF : -1 tvg-logo="https://www.televisiongratishd.com/img/afizzionados.png" ,IZZI AFICIONADOS
+https://live.televisiongratishd.com/hls/ts18e8mxa3xmnll/30_.m3u8?token=OZw_44Y-y3sFlP3wn80mZg&expires=1625948851
+
+
+#EXTINF : -1 tvg-logo="https://www.televisiongratishd.com/img/tudn.png" ,TUDN USA
+https://r9uxprta46.azcdn107.net:8443/hls/vr9fqm7e5odmy.m3u8?s=XV7scuBvT_y4uulaGEWeFA&e=1625962734
+
+#EXTINF : -1 tvg-logo="https://www.televisiongratishd.com/img/tudn.png" ,TUDN MEX
+https://live.televisiongratishd.com/hls/ts18e8mxa3xmnll/3_.m3u8?token=v7n3IHjm3z_utGnEM8guKA&expires=1625948741
+
+
+#EXTINF : -1 tvg-logo="https://1.bp.blogspot.com/-p87V-CJU_ik/XW3HxR7WrcI/AAAAAAAAAG4/X_XbBPgmD7A6hLH9s8A0UJi0deMYQJ0TACLcBGAs/s1600/directv-sports.png" ,DIREC TV
+https://e6.cdnfoxtv.com/ingest01/71388.m3u8?sf=NlFvVm50UUlWSQ==&token=WOUJ63C1Z8LAWYnIbxE8Kg&expires=1625951627&rnd=
+
+
+#EXTINF : -1 tvg-logo="https://1.bp.blogspot.com/-UGh-HUeYBXc/XW3Hw5SksII/AAAAAAAAAGw/OjgpvZ4n8r0lxmitnld7ZBig8lkSA3FugCLcBGAs/s1600/directv-sports-2.png" ,DIREC TV2
+https://e7.cdnfoxtv.com/ingest02/68176.m3u8?sf=Tnh4NVl4MDlDRg==&token=q6jpghuCKdAuU83-QJP-8w&expires=1625951972&rnd=
+
